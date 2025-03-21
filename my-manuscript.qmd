@@ -53,6 +53,8 @@ library(ggmice)
 # visualize ggplot2-like missing data pattern
 mice::boys |> 
   ggmice::plot_pattern()
+
+#Hallooo, zitten jullie lekker in de zon?
 ```
 
 # Ff checkuh
